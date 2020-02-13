@@ -1,2 +1,2 @@
 # projetosDSNP
-Projetos do curso data science na prética.
+Projetos do curso data science na prática.
